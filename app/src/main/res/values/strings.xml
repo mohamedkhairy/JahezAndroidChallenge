@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Jahez Challenge</string>
+
+
+    <string name="restaurant_image_desc">restaurant image</string>
+
+    <string name="restaurant_name">Name: %1$s</string>
+    <string name="restaurant_open">Open: %1$s</string>
+    <string name="restaurant_rate">Rate: %1$s</string>
+
 </resources>
