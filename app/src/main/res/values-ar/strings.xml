@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="restaurant_image_desc">صورة المطعم</string>
+
+    <string name="menu">القائمة</string>
+
+    <string name="restaurant_name">الإسم: %1$s</string>
+    <string name="restaurant_open">مفتوح: %1$s</string>
+    <string name="restaurant_rate">التقييم: %1$s</string>
+
+
+    <string-array name="menu_item">
+        <item>ترتيب حسب المسافة</item>
+        <item>ترتيب حسب التقييم</item>
+        <item>English</item>
+
+    </string-array>
+
+</resources>
